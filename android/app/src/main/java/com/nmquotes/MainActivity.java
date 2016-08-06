@@ -1,6 +1,7 @@
 package com.nmquotes;
 
 import com.facebook.react.ReactActivity;
+import cl.json.RNSharePackage;
 
 public class MainActivity extends ReactActivity {
 
